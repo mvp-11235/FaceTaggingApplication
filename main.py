@@ -1,6 +1,3 @@
-# 이름: 이혜인
-# 차시: 8 차시
-
 import math
 import os
 import sys
